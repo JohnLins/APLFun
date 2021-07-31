@@ -1,4 +1,4 @@
-⍝run, monatic function (a bit like Haskell)
+⍝run 
 ⍎ '3 + 7'
 ⍝10
 
