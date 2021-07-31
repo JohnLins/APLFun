@@ -6,7 +6,7 @@ FuncOne 3
 
 ⍝ ⍺ is the left argument
 FuncOne←{⍺-2}
-FuncOne 5
+5 FuncOne
 ⍝ 3
 
 
